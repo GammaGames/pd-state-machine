@@ -1,4 +1,4 @@
-Lua Finite State Machine
+Playdate Finite State Machine
 ========================
 
 This standalone lua module provides a finite state machine for your pleasure.
@@ -10,7 +10,7 @@ This playdate specific port is based on the [lua-state-machine](https://github.c
 Download
 ========
 
-You can download [statemachine.lua](https://github.com/kyleconroy/lua-state-machine/raw/master/statemachine.lua).
+You can download [statemachine.lua](https://raw.githubusercontent.com/GammaGames/pd-state-machine/master/statemachine.lua).
 
 Alternatively:
 
